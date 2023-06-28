@@ -1,0 +1,29 @@
+Q1. Show how many medal counts present for entire data.
+
+Q2. Show count of unique Sports are present in olympics.
+
+Q3. Show how many different medals won by Team India in data.
+
+Q4. Show event wise medals won by india show from highest to lowest medals won in order.
+
+Q5. Show event and yearwise medals won by india in order of year.
+
+Q6. Show the country with maximum medals won gold, silver, bronze
+
+Q7. Show the top 10 countries with respect to gold medals
+
+Q8. Show in which year did United States won most medals
+
+Q9. In which sports United States has most medals
+
+Q10. Find top 3 players who have won most medals along with their sports and country.
+
+Q11. Find player with most gold medals in cycling along with his country.
+
+Q12. Find player with most medals (Gold + Silver + Bronze) in Basketball also show his country.
+
+Q13. Find out the count of different medals of the top basketball player.
+
+Q14. Find out medals won by male, female each year . Export this data and plot graph in excel.
+
+
